@@ -3,4 +3,4 @@ Olá eu sou o Vinicius Oliveira
 - html, css, Javascript e react
 
 - ⚡ Fun fact: ...
---> Estou a procura do primeiro job na área de tecnologia, progrmação como front-end!!!
+--> Estou a procura do primeiro job na área de tecnologia, deevelop como front-end!!!
