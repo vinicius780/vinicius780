@@ -27,7 +27,7 @@ Sou um estudante de **Desenvolvimento Front-End** em busca da minha primeira opo
 </ul>
 
 ### 🚀 Meus Projetos:
-- **[Projeto universo](https://github.com/vinicius780/universo.github.io)**: Um portfólio interativo criado com **React** e **CSS** para mostrar um pouco mais sobre mim.
+- **[Projeto universo](https://github.com/vinicius780/universo.github.io)**: Um projeto sobre o universo.
 - **[App Pizza](https://github.com/vinicius780/app-pizza)**: Um app simples para pedido de pizzas, desenvolvido com **HTML**, **CSS** e **JavaScript**.
 - **[Projeto Clima](https://github.com/vinicius780/projeto-clima)**: Um projeto que exibe a previsão do tempo usando dados de uma API externa.
 
